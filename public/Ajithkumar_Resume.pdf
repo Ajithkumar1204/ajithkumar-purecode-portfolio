@@ -1,0 +1,192 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+  /Font <<
+    /F1 5 0 R
+    /F2 6 0 R
+  >>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 2500
+>>
+stream
+BT
+/F1 24 Tf
+306 750 Td
+(AJITH KUMAR) Tj
+0 -30 Td
+/F2 12 Tf
+(ajithkumar12204@gmail.com | +91 9361668265 | linkedin.com/in/ajith-kumarma) Tj
+
+0 -50 Td
+/F1 16 Tf
+(EDUCATION) Tj
+0 -25 Td
+/F2 12 Tf
+(BHARATHIDHASAN UNIVERSITY) Tj
+200 0 Td
+(EXPERIENCE) Tj
+-200 -15 Td
+(Bsc Computer Science) Tj
+200 0 Td
+(COMPANY NAME | INTERN) Tj
+-200 -15 Td
+(2024) Tj
+200 0 Td
+(Jan 2023 - Apr 2023) Tj
+-200 -15 Td
+(CGPA: 8.7) Tj
+200 15 Td
+(• Led the design and implementation of multiple landing pages.) Tj
+-200 -30 Td
+(GHSS-AYYAMPETTAI) Tj
+200 0 Td
+(• Optimized pages for performance and responsiveness across devices.) Tj
+-200 -15 Td
+(HSC - 2020) Tj
+200 0 Td
+(• Tech Stack: HTML, CSS, JavaScript) Tj
+-200 -15 Td
+(Percentage: 80.16%) Tj
+200 0 Td
+(• Website: portfolio) Tj
+
+-200 -50 Td
+/F1 16 Tf
+(PROJECTS) Tj
+0 -25 Td
+/F2 12 Tf
+(PROJECT NAME 1 | MINI PROJECT| ONLINE BOOK REVIEW SYSTEM) Tj
+0 -15 Td
+(Jun 2023 - Dec 2023) Tj
+0 -15 Td
+(• Built a web App to add, view, and Review books.) Tj
+0 -15 Td
+(• Used Spring Boot for Backend REST APIs.) Tj
+0 -15 Td
+(• Designed frontend using HTML,CSS,Javascript.) Tj
+0 -15 Td
+(• Tech Stack: java,SpringBoot, Mysql,HTML,CSS,js) Tj
+
+0 -30 Td
+(PROJECT NAME 2 | MAIN PROJECT | STUDENT TASK MANAGEMENT SYSTEM) Tj
+0 -15 Td
+(July 2024 - jan 2025) Tj
+0 -15 Td
+(• Developed a full-stack app to manage students tasks and deadlines.) Tj
+0 -15 Td
+(• Created REST APIs with Spring Boot for task operations.) Tj
+0 -15 Td
+(• Used Mysql for storing user and task data) Tj
+0 -15 Td
+(• Tech Stack: java, SpringBoot, Mysql,HTML,CSS,JS) Tj
+
+0 -50 Td
+/F1 16 Tf
+(SKILLS) Tj
+0 -25 Td
+/F2 12 Tf
+(LANGUAGES) Tj
+0 -15 Td
+(Advanced: java) Tj
+0 -15 Td
+(Intermediate: HTML,CSS,Javascript) Tj
+0 -15 Td
+(FRAMEWORKS) Tj
+0 -15 Td
+(Node.js, React.js) Tj
+0 -15 Td
+(DATABASE) Tj
+0 -15 Td
+(Mysql) Tj
+
+200 0 Td
+/F1 16 Tf
+(ACHIEVEMENTS) Tj
+0 -25 Td
+/F2 12 Tf
+(Coding) Tj
+0 -15 Td
+(• Built and deployed personal portfolio website using HTML,CSS,js,Github pages) Tj
+0 -15 Td
+(• Solved 50+ problems on Leetcode:Ajithkumar12) Tj
+
+0 -30 Td
+/F1 16 Tf
+(TECH PROFILE LINKS) Tj
+0 -25 Td
+/F2 12 Tf
+(• Portfolio: ajithkumarm-portfolio.com) Tj
+0 -15 Td
+(• GitHub: Ajithkumar12) Tj
+
+0 -30 Td
+/F1 16 Tf
+(INTERESTS) Tj
+0 -25 Td
+/F2 12 Tf
+(• Video Editing) Tj
+0 -15 Td
+(• Drawings) Tj
+
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+endobj
+
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000284 00000 n 
+0000002836 00000 n 
+0000002905 00000 n 
+trailer
+<<
+/Size 7
+/Root 1 0 R
+>>
+startxref
+2970
+%%EOF

@@ -13,8 +13,12 @@ const ResumeSection = () => {
   ];
 
   const handleDownload = () => {
-    // In a real application, you would link to the actual PDF file
-    alert('Resume download feature will be implemented with actual PDF file!');
+    const link = document.createElement('a');
+    link.href = '/Ajithkumar_Resume.pdf';
+    link.download = 'Ajithkumar_Resume.pdf';
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
   };
 
   return (

@@ -6,29 +6,20 @@ const ProjectsSection = () => {
   const projects = [
     {
       id: 1,
-      title: 'E-Commerce Web Application',
-      description: 'A full-stack e-commerce platform with user authentication, product management, shopping cart, and payment integration.',
-      technologies: ['React JS', 'Java', 'MySQL', 'CSS'],
+      title: 'Online Books Review System',
+      description: 'A comprehensive web application for reviewing and managing books. Features include user authentication, book catalog, rating system, and review management with full CRUD operations.',
+      technologies: ['Java', 'MySQL', 'HTML', 'CSS', 'JavaScript'],
       image: project1Image,
-      github: '#',
+      github: 'https://github.com/Ajithkumar1204/online-books-review-system',
       live: '#'
     },
     {
       id: 2,
-      title: 'Task Management System',
-      description: 'A responsive task management application with real-time updates, drag-and-drop functionality, and user collaboration features.',
-      technologies: ['HTML', 'CSS', 'JavaScript', 'Local Storage'],
+      title: 'Student Task Management System',
+      description: 'A full-stack application for managing student tasks and deadlines. Built with Spring Boot backend, features include task creation, assignment tracking, progress monitoring, and collaborative tools.',
+      technologies: ['Java', 'Spring Boot', 'MySQL', 'HTML', 'CSS'],
       image: project2Image,
-      github: '#',
-      live: '#'
-    },
-    {
-      id: 3,
-      title: 'Student Information System',
-      description: 'A comprehensive student management system with CRUD operations, search functionality, and grade management features.',
-      technologies: ['Java', 'MySQL', 'Swing', 'JDBC'],
-      image: project3Image,
-      github: '#',
+      github: 'https://github.com/Ajithkumar1204/student-task-management',
       live: '#'
     }
   ];
@@ -38,7 +29,7 @@ const ProjectsSection = () => {
       <div className="container mx-auto max-w-6xl">
         <h2 className="section-title">My Projects</h2>
         
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
           {projects.map((project, index) => (
             <div
               key={project.id}
@@ -72,6 +63,8 @@ const ProjectsSection = () => {
                 <div className="flex gap-4 pt-4">
                   <a
                     href={project.github}
+                    target="_blank"
+                    rel="noopener noreferrer"
                     className="flex items-center gap-2 px-4 py-2 bg-white/10 hover:bg-white/20 rounded-lg transition-colors duration-300 text-sm"
                   >
                     <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
@@ -79,15 +72,16 @@ const ProjectsSection = () => {
                     </svg>
                     GitHub
                   </a>
-                  <a
-                    href={project.live}
+                  <button
+                    onClick={() => window.open(`#project-${project.id}`, '_self')}
                     className="flex items-center gap-2 px-4 py-2 bg-primary/20 hover:bg-primary/30 text-primary rounded-lg transition-colors duration-300 text-sm"
                   >
                     <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" />
                     </svg>
-                    Live Demo
-                  </a>
+                    View Details
+                  </button>
                 </div>
               </div>
             </div>
