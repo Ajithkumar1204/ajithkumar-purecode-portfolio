@@ -31,174 +31,185 @@ endobj
 
 4 0 obj
 <<
-/Length 4200
+/Length 5800
 >>
 stream
 BT
-/F1 28 Tf
+/F1 24 Tf
 50 750 Td
 (AJITH KUMAR) Tj
-0 -20 Td
+0 -18 Td
 /F2 10 Tf
 (ajithkumar12204@gmail.com | +91 9361668265 | linkedin.com/in/ajith-kumarma) Tj
 
-0 -40 Td
+0 -30 Td
 /F1 14 Tf
 (EDUCATION) Tj
 280 0 Td
 (EXPERIENCE) Tj
--280 -20 Td
-/F2 11 Tf
+-280 -15 Td
+/F1 12 Tf
 (BHARATHIDHASAN UNIVERSITY) Tj
 280 0 Td
 (COMPANY NAME | INTERN) Tj
--280 -12 Td
+-280 -10 Td
+/F2 10 Tf
 (Bsc Computer Science) Tj
 280 0 Td
 (Jan 2023 - Apr 2023) Tj
--280 -12 Td
+-280 -10 Td
 (2024) Tj
 280 0 Td
 (• Led the design and implementation of multiple landing pages.) Tj
--280 -12 Td
+-280 -10 Td
 (CGPA: 8.7) Tj
 280 0 Td
 (• Optimized pages for performance and responsiveness across devices.) Tj
--280 -20 Td
+-280 -15 Td
+/F1 12 Tf
 (GHSS-AYYAMPETTAI) Tj
 280 0 Td
 (• Tech Stack: HTML, CSS, JavaScript) Tj
--280 -12 Td
+-280 -10 Td
+/F2 10 Tf
 (HSC - 2020) Tj
 280 0 Td
 (• Website: portfolio) Tj
--280 -12 Td
+-280 -10 Td
 (Percentage: 80.16%) Tj
 
-0 -20 Td
+0 -15 Td
+/F1 12 Tf
 (GHSS) Tj
-0 -12 Td
+0 -10 Td
+/F2 10 Tf
 (SSLC - 2018) Tj
-0 -12 Td
+0 -10 Td
 (Percentage: 75.40%) Tj
 
-0 -30 Td
+0 -25 Td
 /F1 14 Tf
 (SKILLS) Tj
-0 -20 Td
-/F2 11 Tf
-(LANGUAGES) Tj
-0 -12 Td
-(Advanced: Java) Tj
-0 -12 Td
-(Intermediate: HTML, CSS, Javascript) Tj
-0 -15 Td
-(FRAMEWORKS) Tj
-0 -12 Td
-(Node.js, React.js) Tj
-0 -15 Td
-(DATABASE) Tj
-0 -12 Td
-(Mysql) Tj
-0 -15 Td
-(OTHER TOOLS) Tj
-0 -12 Td
-(Github, VS Code) Tj
-0 -15 Td
-(SOFT SKILLS) Tj
-0 -12 Td
-(Analytical Thinking, Communication) Tj
-
-280 300 Td
-/F1 14 Tf
+280 0 Td
 (PROJECTS) Tj
-0 -20 Td
-/F2 11 Tf
+0 -15 Td
+/F1 12 Tf
+(LANGUAGES) Tj
+280 0 Td
 (PROJECT NAME 1 | MINI PROJECT | ONLINE BOOK REVIEW SYSTEM) Tj
-0 -12 Td
+-280 -10 Td
+/F2 10 Tf
+(Advanced: Java) Tj
+280 0 Td
 (Jun 2023 - Dec 2023) Tj
-0 -12 Td
+-280 -10 Td
+(Intermediate: HTML, CSS, Javascript) Tj
+280 0 Td
 (• Built a web App to add, view, and Review books.) Tj
-0 -12 Td
+-280 -15 Td
+/F1 12 Tf
+(FRAMEWORKS) Tj
+280 0 Td
 (• Used Spring Boot for Backend REST APIs.) Tj
-0 -12 Td
+-280 -10 Td
+/F2 10 Tf
+(Node.js, React.js) Tj
+280 0 Td
 (• Designed frontend using HTML, CSS, Javascript.) Tj
-0 -12 Td
+-280 -15 Td
+/F1 12 Tf
+(DATABASE) Tj
+280 0 Td
 (• Tech Stack: java, SpringBoot, Mysql, HTML, CSS, js) Tj
+-280 -10 Td
+/F2 10 Tf
+(Mysql) Tj
 
-0 -25 Td
-(PROJECT NAME 2 | MAIN PROJECT | STUDENT TASK MANAGEMENT SYSTEM) Tj
-0 -12 Td
+0 -15 Td
+/F1 12 Tf
+(OTHER TOOLS) Tj
+280 15 Td
+(PROJECT NAME 2 | MAIN PROJECT | STUDENT TASK MANAGEMENT) Tj
+-280 -10 Td
+/F2 10 Tf
+(Github, VS Code) Tj
+280 0 Td
+(SYSTEM) Tj
+-280 -15 Td
+/F1 12 Tf
+(SOFT SKILLS) Tj
+280 0 Td
 (July 2024 - jan 2025) Tj
-0 -12 Td
+-280 -10 Td
+/F2 10 Tf
+(Analytical Thinking, Communication) Tj
+280 0 Td
 (• Developed a full-stack app to manage students tasks and deadlines.) Tj
-0 -12 Td
-(• Created REST APIs with Spring Boot for task operations.) Tj
-0 -12 Td
-(• Used Mysql for storing user and task data) Tj
-0 -12 Td
-(• Tech Stack: java, SpringBoot, Mysql, HTML, CSS, JS) Tj
-
-0 -30 Td
+-280 -25 Td
 /F1 14 Tf
 (COURSEWORK) Tj
-0 -20 Td
-/F2 11 Tf
+280 0 Td
+(• Created REST APIs with Spring Boot for task operations.) Tj
+0 -15 Td
+/F1 12 Tf
 (GRADUATE) Tj
-0 -12 Td
+280 0 Td
+(• Used Mysql for storing user and task data) Tj
+-280 -10 Td
+/F2 10 Tf
 (Data Structures and Algorithms) Tj
-0 -12 Td
+280 0 Td
+(• Tech Stack: java, SpringBoot, Mysql, HTML, CSS, JS) Tj
+-280 -10 Td
 (Database Management Systems) Tj
-0 -12 Td
+0 -10 Td
 (Operating Systems) Tj
-0 -12 Td
+280 15 Td
+/F1 14 Tf
+(ACHIEVEMENTS) Tj
+-280 -10 Td
+/F2 10 Tf
 (Web Technologies) Tj
-0 -12 Td
+280 0 Td
+(Coding) Tj
+-280 -10 Td
 (Object-Oriented Programming) Tj
+280 0 Td
+(• Built and deployed personal portfolio website using HTML, CSS, js, Github pages) Tj
 
 0 -25 Td
 /F1 14 Tf
 (CERTIFICATIONS) Tj
-0 -20 Td
-/F2 11 Tf
+280 0 Td
+(• Solved 50+ problems on Leetcode: Ajithkumar12) Tj
+0 -15 Td
+/F1 12 Tf
 (FULLSTACK DEVELOPMENT) Tj
-0 -12 Td
+0 -10 Td
+/F2 10 Tf
 (Besant technologies: Chennai) Tj
 
 0 -25 Td
 /F1 14 Tf
 (LANGUAGES) Tj
-0 -20 Td
-/F2 11 Tf
-(Tamil, English) Tj
-
-0 -25 Td
-/F1 14 Tf
-(ACHIEVEMENTS) Tj
-0 -20 Td
-/F2 11 Tf
-(Coding) Tj
-0 -12 Td
-(• Built and deployed personal portfolio website using HTML, CSS, js, Github pages) Tj
-0 -12 Td
-(• Solved 50+ problems on Leetcode: Ajithkumar12) Tj
-
-0 -25 Td
-/F1 14 Tf
+280 15 Td
 (TECH PROFILE LINKS) Tj
-0 -20 Td
-/F2 11 Tf
+0 -15 Td
+/F2 10 Tf
+(Tamil, English) Tj
+280 0 Td
 (• Portfolio: ajithkumarm-portfolio.com) Tj
-0 -12 Td
+-280 -25 Td
+280 0 Td
 (• GitHub: Ajithkumar12) Tj
 
-0 -25 Td
+-280 15 Td
 /F1 14 Tf
 (INTERESTS) Tj
-0 -20 Td
-/F2 11 Tf
+0 -15 Td
+/F2 10 Tf
 (• Video Editing) Tj
-0 -12 Td
+0 -10 Td
 (• Drawings) Tj
 
 ET
@@ -228,13 +239,13 @@ xref
 0000000058 00000 n 
 0000000115 00000 n 
 0000000284 00000 n 
-0000002836 00000 n 
-0000002905 00000 n 
+0000004136 00000 n 
+0000004205 00000 n 
 trailer
 <<
 /Size 7
 /Root 1 0 R
 >>
 startxref
-2970
+4270
 %%EOF
