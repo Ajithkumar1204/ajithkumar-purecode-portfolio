@@ -146,9 +146,16 @@ const OnlineBooksReview = () => {
     });
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-900 via-purple-900 to-indigo-900">
+    <div className="min-h-screen bg-gradient-to-br from-emerald-950 via-teal-900 to-cyan-900 relative overflow-hidden">
+      {/* Animated Background Elements */}
+      <div className="absolute inset-0 overflow-hidden">
+        <div className="absolute -top-10 -left-10 w-72 h-72 bg-emerald-400/20 rounded-full blur-3xl animate-pulse"></div>
+        <div className="absolute top-1/3 -right-20 w-96 h-96 bg-teal-400/15 rounded-full blur-3xl animate-pulse delay-1000"></div>
+        <div className="absolute -bottom-20 left-1/3 w-80 h-80 bg-cyan-400/10 rounded-full blur-3xl animate-pulse delay-2000"></div>
+      </div>
+
       {/* Header */}
-      <header className="bg-white/10 backdrop-blur-md border-b border-white/20">
+      <header className="relative bg-gradient-to-r from-emerald-900/50 to-teal-800/50 backdrop-blur-xl border-b border-emerald-400/20 shadow-2xl">
         <div className="container mx-auto px-6 py-4 flex justify-between items-center">
           <Link 
             to="/" 
@@ -169,13 +176,23 @@ const OnlineBooksReview = () => {
       </header>
 
       {/* Main Content */}
-      <main className="container mx-auto px-4 py-8 max-w-7xl">
+      <main className="relative container mx-auto px-4 py-8 max-w-7xl">
         {/* Hero Section */}
-        <div className="text-center mb-12">
-          <h1 className="text-5xl font-bold text-white mb-4 bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
-            BookReview Hub
+        <div className="text-center mb-16 relative">
+          <div className="inline-block p-4 rounded-full bg-gradient-to-r from-emerald-400/20 to-teal-400/20 mb-6">
+            <BookOpen className="w-16 h-16 text-emerald-300" />
+          </div>
+          <h1 className="text-7xl font-bold text-white mb-6 bg-gradient-to-r from-emerald-300 via-teal-300 to-cyan-300 bg-clip-text text-transparent tracking-tight">
+            Literary Universe
           </h1>
-          <p className="text-xl text-white/80 mb-6">Discover, Review, and Rate Your Favorite Books</p>
+          <p className="text-2xl text-emerald-100/90 mb-8 max-w-3xl mx-auto leading-relaxed">
+            Immerse yourself in a world of knowledge, reviews, and literary discussions
+          </p>
+          <div className="flex justify-center">
+            <div className="bg-gradient-to-r from-emerald-500/20 to-teal-500/20 rounded-full px-6 py-2 border border-emerald-400/30">
+              <span className="text-emerald-200 text-sm font-medium">🌟 Featured Book Platform</span>
+            </div>
+          </div>
           <div className="flex justify-center items-center gap-8 text-white/70">
             <div className="flex items-center gap-2">
               <BookOpen className="w-5 h-5" />
@@ -193,7 +210,7 @@ const OnlineBooksReview = () => {
         </div>
 
         {/* Search and Filter Section */}
-        <div className="bg-white/10 backdrop-blur-md rounded-xl p-6 border border-white/20 mb-8">
+        <div className="bg-gradient-to-r from-emerald-900/30 to-teal-900/30 backdrop-blur-xl rounded-2xl p-8 border border-emerald-400/20 mb-12 shadow-2xl">
           <div className="grid md:grid-cols-3 gap-4">
             <div className="relative">
               <Search className="absolute left-3 top-3 w-5 h-5 text-white/60" />
